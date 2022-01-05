@@ -8,7 +8,7 @@ const Job = () => {
       {data.map((job) => {
         return (
           <div className="job-container">
-            {/* <img src={job.logo} alt="" /> */}
+            <img src={job.logo} alt="" />
             {job.company}
           </div>
         );
