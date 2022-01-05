@@ -1,11 +1,11 @@
 import React from "react";
-import Job from "./Job";
+import Jobs from "./Jobs";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <Job/>
+      <Jobs />
     </div>
   );
 }
