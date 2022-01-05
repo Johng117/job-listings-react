@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.header {
+  background-color:hsl(180, 29%, 50%) ;
+  height: 5rem;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
