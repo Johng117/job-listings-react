@@ -4,7 +4,7 @@ import JobCard from "./JobCard";
 
 const Jobs = () => {
   return (
-    <div className="header-jobs-content">
+    <div>
       <div className="header">
         <img src="./images/bg-header-desktop.svg" alt="" />
       </div>
